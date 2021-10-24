@@ -2,7 +2,7 @@
 
 Windows DLL builds of the [libdmtx](https://sourceforge.net/p/libdmtx/libdmtx/) and
 [ZBar](http://zbar.sourceforge.net/) barcode readers, made available here for the benefit
-of [pulibdmtx](https://github.com/NaturalHistoryMuseum/pylibdmtx) and
+of [pylibdmtx](https://github.com/NaturalHistoryMuseum/pylibdmtx) and
 [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar/) respectively.
 
 * libdmtx 32-bit: `libzbar-32.dll`
