@@ -5,8 +5,8 @@ Windows DLL builds of the [libdmtx](https://sourceforge.net/p/libdmtx/libdmtx/) 
 of [pylibdmtx](https://github.com/NaturalHistoryMuseum/pylibdmtx) and
 [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar/) respectively.
 
-* libdmtx 32-bit: `libzbar-32.dll`
-* libdmtx 64-bit: `libzbar-64.dll`
+* libdmtx 32-bit: `liblibdmtx-32.dll`
+* libdmtx 64-bit: `liblibdmtx-64.dll`
 * zbar 32-bit: `libiconv-2.dll` and `libzbar-32.dll`
 * zbar 64-bit: `libiconv.dll` and `libzbar-64.dll`
 
